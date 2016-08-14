@@ -1,11 +1,9 @@
 Role Name
 =========
-Phil's Vim setup
+Phil's NTP setup
 
 Requirements
 ------------
-
-* `git`
 
 Role Variables
 --------------
@@ -27,7 +25,7 @@ To run the local playbook, issue the following command.
 License
 -------
 
-MIT
+BSD
 
 Author Information
 ------------------
