@@ -1,4 +1,5 @@
 ---
+ntp_timezone: "America/Detroit"
 ntp_config: /etc/ntp.conf
 ntp_timeservers:
   - 0.north-america.pool.ntp.org
