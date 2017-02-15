@@ -3,3 +3,4 @@
   service:
     name: "{{ ntp_service }}"
     state: restarted
+...

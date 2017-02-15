@@ -25,7 +25,7 @@ To run the local playbook, issue the following command.
 License
 -------
 
-BSD
+GPLv3
 
 References
 ----------
